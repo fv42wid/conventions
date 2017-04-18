@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\ConventionsAndConstraints\ConventionsAndConstraints\bin\Debug\netcoreapp1.1\ConventionsAndConstraints.deps.json
+C:\Users\Administrator\Desktop\ConventionsAndConstraints\ConventionsAndConstraints\bin\Debug\netcoreapp1.1\ConventionsAndConstraints.runtimeconfig.json
+C:\Users\Administrator\Desktop\ConventionsAndConstraints\ConventionsAndConstraints\bin\Debug\netcoreapp1.1\ConventionsAndConstraints.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\ConventionsAndConstraints\ConventionsAndConstraints\bin\Debug\netcoreapp1.1\ConventionsAndConstraints.dll
+C:\Users\Administrator\Desktop\ConventionsAndConstraints\ConventionsAndConstraints\bin\Debug\netcoreapp1.1\ConventionsAndConstraints.pdb
+C:\Users\Administrator\Desktop\ConventionsAndConstraints\ConventionsAndConstraints\obj\Debug\netcoreapp1.1\ConventionsAndConstraints.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ConventionsAndConstraints\ConventionsAndConstraints\obj\Debug\netcoreapp1.1\ConventionsAndConstraints.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ConventionsAndConstraints\ConventionsAndConstraints\obj\Debug\netcoreapp1.1\ConventionsAndConstraints.dll
+C:\Users\Administrator\Desktop\ConventionsAndConstraints\ConventionsAndConstraints\obj\Debug\netcoreapp1.1\ConventionsAndConstraints.pdb
